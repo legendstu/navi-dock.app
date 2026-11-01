@@ -3,6 +3,19 @@
     <channel>
         <title>NaviDock</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Sun, 01 Nov 2026 09:58:15 +0000</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[* optimize the preview card
+* ESC to close Launcher Panel
+* show machine name in license view
+* animation for displaying launcher & preview
+]]></description>
+            <enclosure url="https://github.com/legendstu/navi-dock.app/releases/download/v1.1.0/NaviDock-1.1.0.dmg" length="4333436" type="application/octet-stream" sparkle:edSignature="qFwECAFKB8qXy903uddi+KH5Ifs3uZvANd5isDGxrOcw+4UGyfrvtCF+bfrgefgwyOeAU25g6KYXWXokBQxbDQ=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Sat, 24 Oct 2026 01:31:26 +0000</pubDate>
             <sparkle:version>1.0.0</sparkle:version>
